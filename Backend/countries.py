@@ -113,6 +113,7 @@ HR = country("", "", , , 0, 0, "")
 eg = country("Croatia", "Zagreb", 45.1, 15.2, 0, 0, "Eurasian")
 HT = country("Haiti", "Port-au-Prince", 18.971187, -72.285215, 0, 0, "Caribbean")
 HU = country("Hungary", "Budapest",47.162494 , 19.503304, 0, 0, "Eurasian")
+eg = country("", "", , , 0, 0, "")
 
 
 # List of countries
